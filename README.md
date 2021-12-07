@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td align="center">3</td>
-<td><a href="#">Определение перспективного тарифа для телеком компании</a></td>
+<td><a href="https://github.com/CyberEfrem/telecom-company-research">Определение перспективного тарифа для телеком компании</a></td>
 <td align="center">Телеком</td>
 <td>Подготовка данных, выявление в них проблем; постройка графиков распределений, их интерпретация; расчёт стандартного отклонения, дисперсии; формирование нулевой и альтернативной гипотезы; проверка и интерпретация гипотез.</td>
 <td align="center"><code>Pandas</code> <code>Matplotlib</code> <code>display</code> <code>math</code> <code>NumPy</code> <code>SciPy</code> <code>Statsmodels</code></td>
