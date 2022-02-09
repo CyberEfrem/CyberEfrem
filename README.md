@@ -44,7 +44,7 @@
 </tr>
  <tr>
 <td align="center">4</td>
-<td><a href="https://github.com/CyberEfrem/game_dev_research">Анализ рынка компьютерных игр</a></td>
+<td><a href="https://github.com/CyberEfrem/game_dev_research">Изучение закономерностей, определяющих успешность игр</a></td>
 <td align="center">Геймдэв</td>
 <td>Подготовка данных, выявление в них проблем; расчет стандартного отклонения и дисперсий; формулирование и проверка нулевой и альтернативной гипотезы; общий исследовательский анализ данных.</td>
 <td align="center"><code>Pandas</code> <code>Matplotlib</code> <code>display</code> <code>math</code> <code>NumPy</code> <code>SciPy</code> <code>Statsmodels</code></td>
