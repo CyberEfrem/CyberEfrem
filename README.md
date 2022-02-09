@@ -78,7 +78,7 @@
 Дополнительно измерен AUC-ROC, соотнесен с F1-мерой.
 Обучение с учителем. Работа с несбалансированными данными.</td>
 <td align="center"><code>Pandas</code> <code>Matplotlib</code> <code>NumPy</code> <code>sklearn</code> <code>машинное обучение
-</code> <code>описательная статистика</code></td>
+</code></td>
 </tr>
  <tr>
 <td align="center">7</td>
@@ -91,7 +91,7 @@
 Определены регионы с максимальной суммарной прибылью отобранных скважин.
 Построена модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализирована возможная прибыль и риски техникой Bootstrap.</td>
 <td align="center"><code>Pandas</code> <code>Matplotlib</code> <code>NumPy</code> <code>Bootstrap</code>  <code>sklearn</code> <code>машинное обучение
-</code> <code>описательная статистика</code></td>
+</code></td>
 </tr>
 </tbody>
 </table>
